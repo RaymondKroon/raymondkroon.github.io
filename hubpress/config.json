@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "raymondkroon",
-    "repositoryName": "raymondkroon.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"raymondkroon","repositoryName":"raymondkroon.github.io","branch":"master","cname":"raymond.k3n.nl"},"site":{"title":"Raymond Kroon","description":"A little better every day. Vents, rants, everything I am passionate about.","url":"http://raymond.k3n.nl"},"socialnetwork":{"linkedin":"https://www.linkedin.com/profile/view?id=10002317","github":"https://github.com/RaymondKroon"},"theme":{"name":"Casper","url":"//raymondkroon.github.io/themes/Casper"}}
